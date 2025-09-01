@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Jidhin 👋
 
-<!--
-**jidhin01/jidhin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer and designer who strives to build high-quality web experiences through clean, maintainable code and thoughtful design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Frontend Technologies:** React.js, Next.js, Bootstrap, Tailwind CSS
+- **Backend Technologies:**  Node.js, Express.js ,Django, Django REST Framework
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Database Design
+- **Development Tools:** Git, GitHub, Docker, Postman, npm, Vite, CI/CD
+- **Cloud & Deployment:** Netlify, Vercel, Render
+ 
+---
+
+## 📫 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | ⚫️ X | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [Jidhin](https://jidhin.vercel.app) | [Jidhin T](https://www.linkedin.com/in/jidhin-t/) | [@Jidhin01](https://x.com/Jidhin01) | [@Jidhin01](https://github.com/jidhin01) | [hinjit86@gmail.com](mailto:hinjit86@gmail.com) |
+
+---
+
+> *See you around!*
