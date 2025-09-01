@@ -6,13 +6,11 @@ I’m a web developer and designer who strives to build high-quality web experie
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, JavaScript, HTML5, CSS3, SQL
+- **Programming Languages:** Python, JavaScript, HTML, CSS, SQL
 - **Frontend Technologies:** React.js, Next.js, Bootstrap, Tailwind CSS
-- **Backend Technologies:**  Node.js, Express.js ,Django, Django REST Framework
-- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Database Design
-- **Development Tools:** Git, GitHub, Docker, Postman, npm, Vite, CI/CD
-- **Cloud & Deployment:** Netlify, Vercel, Render
- 
+- **Backend Technologies:**  Node.js, Express.js ,Django
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Docker, Netlify, Vercel, Render 
 ---
 
 ## 📫 Let’s Connect
