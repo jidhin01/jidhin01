@@ -10,7 +10,7 @@ I’m a web developer and designer who strives to build high-quality web experie
 - **Frontend Technologies:** React.js, Next.js, Bootstrap, Tailwind CSS
 - **Backend Technologies:**  Node.js, Express.js ,Django
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, Docker, Netlify, Vercel, Render 
+- **Tools & Platforms:** Git, GitHub, Netlify, Vercel, Render 
 ---
 
 ## 📫 Let’s Connect
